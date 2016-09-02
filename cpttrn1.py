@@ -1,4 +1,4 @@
-a= input()
+a = input()
 for k in range(a):
     line, column = map(int, raw_input().split())
    
